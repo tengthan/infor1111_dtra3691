@@ -1,0 +1,19 @@
+table, th, td {
+  border:2px solid yellow;
+  text-align: center;
+  height: 50px;
+  width: 550px;
+  margin-left: 500px;
+}
+.link {
+  color: yellow;
+}
+
+.p { 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  color: yellow;
+  padding-top: 10px ;
+  padding-bottom:  10px;
+  
+}
